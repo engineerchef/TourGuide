@@ -1,0 +1,304 @@
+<resources>
+    <string name="app_name">Best Of Waukesha County</string>
+
+    <!-- Not applicable string -->
+    <string name="not_applicable">n/a</string>
+
+    <!-- Park resources -->
+    <string name="lapham_peak_name">Lapham Peak</string>
+    <string name="lapham_peak_hours">6am-10pm</string>
+    <string name="lapham_peak_address">W329 N846 County Rd C\nDelafield, WI</string>
+    <string name="lapham_peak_phone">262-646-3025</string>
+    <string name="lapham_peak_description">
+        A state park with miles of trails and natural wildlife.
+        Also includes a 40 foot viewing tower.
+    </string>
+
+    <string name="frame_park_name">Frame Park</string>
+    <string name="frame_park_hours">Sunrise-11pm</string>
+    <string name="frame_park_address">1150 Frame Park Dr\nWaukesha, WI</string>
+    <string name="frame_park_description">
+        A park spread out over two banks of the Fox River.
+        It includes a flower garden, baseball field, playgrounds,
+        watersport rentals and more.
+    </string>
+
+    <string name="retzer_name">Retzer Nature Center</string>
+    <string name="retzer_hours">Sunrise-10pm</string>
+    <string name="retzer_phone">262-896-8007</string>
+    <string name="retzer_address">S14 W28167 Madison St\nWaukesha, WI</string>
+    <string name="retzer_description">
+        Nature preservation with free access to the public.
+        Includes hiking trails, as well as a nature center
+        and paid planetarium visits.
+    </string>
+
+    <string name="fox_brook_name">Fox Brook Park</string>
+    <string name="fox_brook_hours">11am-7pm</string>
+    <string name="fox_brook_phone">262-783-3425</string>
+    <string name="fox_brook_address">2925 Barker Rd\nBrookfield, WI</string>
+    <string name="fox_brook_description">
+        Park with a man-made beach and swimming quarry.
+        Includes a raft with a diving board, a snack shop
+        and on-duty lifeguards.
+    </string>
+
+    <string name="minooka_name">Minooka Park</string>
+    <string name="minooka_hours">Sunrise-10pm</string>
+    <string name="minooka_phone">262-896-8006</string>
+    <string name="minooka_address">1927 E Sunset Dr\nWaukesha, WI</string>
+    <string name="minooka_description">
+        A large park and forest with trails for runners and hikers alike.
+        Also includes a beach and lake with smimming at your own risk.
+    </string>
+
+    <string name="fox_river_name">Fox River Park</string>
+    <string name="fox_river_hours">Sunrise-10pm</string>
+    <string name="fox_river_phone">262–970–6690</string>
+    <string name="fox_river_address">W264 S4500 River Rd\nWaukesha, WI</string>
+    <string name="fox_river_description">
+        This park follows the iconic Fox River and includes many
+        hiking trails through forests and marshes.
+    </string>
+
+    <!-- End Park Strings -->
+
+    <!-- Food Strings -->
+    <string name="joses_name">Jose\'s Blue Sombrero</string>
+    <string name="joses_phone">262-432-6667</string>
+    <string name="joses_address">20371 W Bluemound Rd\nBrookfield, WI</string>
+    <string name="joses_description">
+        A mexican bar and restaurant.
+    </string>
+
+    <string name="bravo_name">Bravo Cucina Italiana</string>
+    <string name="bravo_phone">262-785-0858</string>
+    <string name="bravo_address">95 N Moorland Rd\nBrookfield, WI</string>
+    <string name="bravo_description">
+        Italian dining located at Brookfield Square Mall.
+        Includes indoor as well as outdoor seating (Weather permitting).
+    </string>
+
+    <string name="golosi_name">Golosi Gelato Café</string>
+    <string name="golosi_phone">262-391-0637</string>
+    <string name="golosi_address">162 E Wisconsin Ave\nOconomowoc, WI</string>
+    <string name="golosi_description">
+        Traditional Panini sandwiches and a huge selection of freshly made gelato.
+    </string>
+
+    <string name="peoples_park_name">Taylor\'s Peoples Park</string>
+    <string name="peoples_park_phone">262-522-6868</string>
+    <string name="peoples_park_address">337 W Main St\nWaukesha, WI</string>
+    <string name="peoples_park_description">
+        A popular bar and restaurant serving a great selection of food and alcohol choices.
+        Located in the heart of Waukesha in a civil war era building. Includes a rooftop
+        patio for a nice change in atmosphere.
+    </string>
+
+    <string name="jimmys_name">Jimmy\'s Grotto</string>
+    <string name="jimmys_phone">262-542-1500</string>
+    <string name="jimmys_address">314 E Main St\nWaukesha, WI</string>
+    <string name="jimmys_description">
+        This pizza place is a local favorite. Home of the locally famous Ponza - a large calzone
+        deep fried with all your favorite toppings inside.
+    </string>
+
+    <string name="michaels_name">Michael\'s Italian Restaurant</string>
+    <string name="michaels_phone">262-549-0406</string>
+    <string name="michaels_address">1400 S Grand Ave\nWaukesha, WI</string>
+    <string name="michaels_description">
+        A traditional Italian restaurant that has been in the area for many years.
+        Great for families.
+    </string>
+
+    <string name="sakura_name">Sakura Japanese Sushi and Grill</string>
+    <string name="sakura_phone">262-408-5681</string>
+    <string name="sakura_address">332 w Broadway St\nWaukesha, WI</string>
+    <string name="sakura_description">
+        Enjoy good Japanese cuisine served by a friendly staff.
+    </string>
+
+    <string name="palmar_name">El Palmar</string>
+    <string name="palmar_phone">262-446-4888</string>
+    <string name="palmar_address">145 W Main St\nWaukesha, WI</string>
+    <string name="palmar_description">
+        A mexican bar and restaurant located in downtown Waukesha.
+    </string>
+
+    <string name="melting_pot_name">The Melting Pot</string>
+    <string name="melting_pot_phone">262-782-6358</string>
+    <string name="melting_pot_address">19850 W Bluemound Rd\nBrookfield, WI</string>
+    <string name="melting_pot_description">
+        Delicious fondu and fine dining.
+    </string>
+
+    <string name="cafe_manna_name">Café Manna</string>
+    <string name="cafe_manna_phone">262-790-2340</string>
+    <string name="cafe_manna_address">3815 N Brookfield Rd\nBrookfield, WI</string>
+    <string name="cafe_manna_description">
+        Completely vegetarian restaurant serving great food and drinks.
+    </string>
+
+    <string name="taco_amigo_name">Taco Amigo</string>
+    <string name="taco_amigo_phone">262-544-0104</string>
+    <string name="taco_amigo_address">2104 Silvernail R\nPewaukee, WI</string>
+    <string name="taco_amigo_description">
+        Great mexican food at reasonable prices.
+    </string>
+
+    <string name="case_tequila_name">Casa Tequila</string>
+    <string name="casa_tequila_phone">262-746-6966</string>
+    <string name="casa_tequila_address">1405 West Capitol Dr\nPewaukee, WI</string>
+    <string name="casa_tequila_description">
+        Fresh, authentic Mexican cuisine.
+    </string>
+
+    <string name="lagniappe_name">Lagniappe Brasserie</string>
+    <string name="lagniappe_phone">262-782-7530</string>
+    <string name="lagniappe_address">17001 W Greenfield Ave\nNew Berlin, WI</string>
+    <string name="lagniappe_description">
+        A small French restaurant with delicious cuisine and a nice atmosphere.
+    </string>
+
+
+    <!-- Fun Resources -->
+    <string name="adventure_rock_name">Adventure Rock</string>
+    <string name="adventure_rock_phone">262-790-6800</string>
+    <string name="adventure_rock_address">21250 W Capitol Dr\nBrookfield, WI</string>
+    <string name="adventure_rock_description">
+        An indoor climbing gym with hundreds of routes, a workout area,
+        lockers, and a party room.
+    </string>
+
+    <string name="icombat_name">iCombat</string>
+    <string name="icombat_phone">855-454-4426</string>
+    <string name="icombat_address">1023 Spring City Dr\nWaukesha, WI</string>
+    <string name="icombat_description">
+        Tactical lasertag with realistic weapons. Also offers tactical training courses.
+    </string>
+
+    <string name="skyzone_name">Skyzone Trampoline Park</string>
+    <string name="skyzone_phone">262-696-1600</string>
+    <string name="skyzone_address">W229 N1420 Westwood Dr\nWaukesha, WI</string>
+    <string name="skyzone_description">
+        Indoor trampoline play area. Take fitness classes, play dodgeball or volleyball,
+        and take a leap into the foam pit.
+    </string>
+
+    <string name="veloce_name">Veloce Indoor Speedway</string>
+    <string name="veloce_phone">262-232-6700</string>
+    <string name="veloce_address">W229 N1400 Westwood Dr\nWaukesha, WI</string>
+    <string name="veloce_description">
+        High-speed indoor go-karting. Also offers tournament racing for advanced racers.
+    </string>
+
+    <string name="country_springs_name">Country Springs Waterpark</string>
+    <string name="country_springs_phone">262-347-0201</string>
+    <string name="country_springs_address">2810 Golf Rd\nPewaukee, WI</string>
+    <string name="country_springs_description">
+        Indoor waterpark connected to the Country Springs Hotel. Includes, a lazy river,
+        3 large tube slides, an indoor/outdoor hot-tub, a kids splash zone and a 5 ft pool.
+    </string>
+
+    <string name="waukesha_museum_name">Waukesha County Museum</string>
+    <string name="waukesha_museum_phone">262-521-2859</string>
+    <string name="waukesha_museum_address">101 W Main St\nWaukesha, WI</string>
+    <string name="waukesha_museum_description">
+        Explore the rich history of Waukesha with this museum run by the Waukesha Historical Society.
+    </string>
+
+    <string name="lasertag_adventure_name">Lasertag Adventure</string>
+    <string name="lasertag_adventure_phone">262-510-2746</string>
+    <string name="lasertag_adventure_address">1814 Dolphin Dr\nWaukesha, WI</string>
+    <string name="lasertag_adventure_description">
+        From the awesome lasertag arena, to bowling and arcade games,
+        kids will love Lasertag Adventure. Finish off the night with Zappi\'s pizza.
+    </string>
+
+    <string name="swingtime_name">Swingtime Minigolf</string>
+    <string name="swingtime_phone">262-547-3232</string>
+    <string name="swingtime_address">1601 E Main St\nWaukesha, WI</string>
+    <string name="swingtime_description">
+        Includes 2 full 18-hole minigolf courses, an arcade, and batting cages.
+    </string>
+
+    <string name="pieper_porch_name">Pieper Porch Winery and Vineyard</string>
+    <string name="pieper_porch_phone">262-349-9092</string>
+    <string name="pieper_porch_address">S67 W28435 River Rd\nWaukesha, WI</string>
+    <string name="pieper_porch_description">
+        Stop in for a wine tasting and enjoy the beautiful scenery of this family-owned
+        Wisconsin vineyard. Make sure to take home some wine too!
+    </string>
+
+    <string name="merrill_hills_name">Merrill Hills Golf Course</string>
+    <string name="merrill_hill_phone">262-548-1100</string>
+    <string name="merrill_hills_address">W270 S3425 Merrill Hills Rd\nWaukesha, WI</string>
+    <string name="merrill_hills_description">
+        Now taken over by the Legend Clubs, the legend at Merrill Hills includes many amentities
+        for golf pros and enthusiasts alike. Features a beautiful 18-hole golf course, country club,
+        pro shop, and a sport clubhouse with an olympic lap pool.
+    </string>
+
+    <!-- Fitness resources -->
+
+    <string name="center_court_name">Center Court Sports Complex</string>
+    <string name="center_court_phone">262-548-3838</string>
+    <string name="center_court_address">815 Northview Rd\nWaukesha, WI</string>
+    <string name="center_court_description">
+        A 50,000 square foot sports complex that can be setup for either volleyball or basketball.
+    </string>
+
+    <string name="martial_arts_name">Waukesha Mixed Martial Arts</string>
+    <string name="martial_arts_phone">262-513-9924</string>
+    <string name="martial_arts_address">1933 S West Ave\nWaukesha, WI</string>
+    <string name="martial_arts_description">
+        An all ages mixed martial art training gym for men, women, and children
+        of all ages.
+    </string>
+
+    <string name="wisconsin_athletic_name">Wisconsin Athletic Club</string>
+    <string name="wisconsin_athletic_phone">262-544-4111</string>
+    <string name="wisconsin_athletic_address">1530 E Moreland Blvd\nWaukesha, WI</string>
+    <string name="wisconsin_athletic_description">
+        Part of an athletic club chain. Features court sports, ftness classes, swimming,
+        and wellness programs.
+    </string>
+
+    <string name="crossfit_name">CrossFit Waukesha</string>
+    <string name="crossfit_phone">414-704-5569</string>
+    <string name="crossfit_address">411 Travis Ln\nWaukesha, WI</string>
+    <string name="crossfit_description">
+        Gym offering crossfit and yoga classes.
+    </string>
+
+    <string name="yogasylum_name">Yogasylum</string>
+    <string name="yogasylum_phone">262-781-8102</string>
+    <string name="yogasylum_address">3815 N Brookfield Rd\nBrookfield, WI</string>
+    <string name="yogasylum_description">
+        Yoga center offering a variety of classes daily. Located next to Café Manna.
+    </string>
+
+    <string name="salto_name">Salto Gymnastic</string>
+    <string name="salto_phone">262-549-3344</string>
+    <string name="salto_address">1417 Poplar Dr\nWaukesha, WI</string>
+    <string name="salto_description">
+        Gymnastic instructional and training facility.
+    </string>
+
+    <string name="glacier_drumlin_name">Glacier Drumlin Bike Trail</string>
+    <string name="glacier_drumlin_phone">262-646-3025</string>
+    <string name="glacier_drumlin_address">W329 N346 County hwy C\nDelafield, WI</string>
+    <string name="glacier_drumlin_description">
+        A bike trail stretching 52 miles between Waukesha and Sun Prairie.
+        $5 per day or $25 per year.
+    </string>
+
+    <string name="koha_name">Koha Yoga</string>
+    <string name="koha_phone">310-940-1626</string>
+    <string name="koha_address">145 Park Ave\nPewaukee, WI</string>
+    <string name="koha_description">
+        Located right on the banks of Pewaukee lake, you can enjoy yoga as well
+        as paddleboarding (weather permitting) or combine the two.
+    </string>
+
+</resources>
